@@ -6,11 +6,6 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Software engineer </h1>
 
-<br />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince891028&column=8&theme=onedark"/>
-</p>
-
 ---
 
 ### 📊 Stats

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pinpointdev90
 - 👀 I am a full stack engineer with around 7 years of experience in web development.
-  👀 I am specialized in React and Vue across all platforms and browsers.
-  👀 I developed many applications so far such as marketplace platforms, social media applications, messaging apps, and many other categories of applications.
+I am specialized in React and Vue across all platforms and browsers.
+I developed many applications so far such as marketplace platforms, social media applications, messaging apps, and many other categories of applications.
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

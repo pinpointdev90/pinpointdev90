@@ -3,7 +3,7 @@
 I am specialized in React and Vue across all platforms and browsers.
 I developed many applications so far such as marketplace platforms, social media applications, messaging apps, and many other categories of applications.
 - 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I enjoy to challenge against hackathons and hackerrank problems every weekend and really love to share what I learned with everybody.
 - 📫 How to reach me ...
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Software engineer </h1>

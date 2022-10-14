@@ -73,10 +73,4 @@ I developed many applications so far such as marketplace platforms, social media
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 [![mac](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)]
 
----
-
-### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince891028&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-
----
 
